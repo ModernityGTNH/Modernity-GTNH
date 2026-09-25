@@ -10,8 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - branch: main
+            version: 2.8.x
+            latest: false
+          - branch: 2.9.X
+            version: 2.9.x
+            latest: true
 
     env:
+      PRIMARY_BRANCH: ${{ matrix.branch }}
+      VERSION: ${{ matrix.version }}
       INCLUDE_PATHS: |
         assets/
         MyCTMLib.cfg
@@ -19,9 +31,8 @@ jobs:
         pack.png
         README.md
 
-      TARGET_BRANCHES: "main no_mixed_color_gc_plate resonatic_circuit gtnh_color"
+      TARGET_BRANCHES: "no_mixed_color_gc_plate resonatic_circuit gtnh_color"
 
-      ZIP_NAME_main: "Modernity-GTNH-{DATE}.zip"
       ZIP_NAME_no_mixed_color_gc_plate: "Modernity-GTNHAddon-NoMixinColorGCHeavyMaterial.zip"
       ZIP_NAME_resonatic_circuit: "Modernity-GTNHAddon-GTNLResonaticCircuit.zip"
       ZIP_NAME_gtnh_color: "Modernity-GTNHAddon-GTNHColorComponent.zip"
@@ -45,11 +56,14 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
+          ref: ${{ matrix.branch }}
           fetch-depth: 0
 
-      - name: Get build date
+      - name: Get build metadata
         run: |
           echo "BUILD_DATE=$(date -u +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "FULL_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
+          echo "SHORT_SHA=$(git rev-parse --short=7 HEAD)" >> $GITHUB_ENV
 
       - name: Get last two release tags from ABKQPO/MyCTMLib
         id: get_tags
@@ -62,13 +76,13 @@ jobs:
 
       - name: Build all branches
         run: |
-          for BRANCH in $TARGET_BRANCHES; do
-            git checkout $BRANCH
-            VAR_NAME="ZIP_NAME_${BRANCH//-/_}"
-            ZIP_NAME="${!VAR_NAME}"
-
-            if [ "$BRANCH" == "main" ]; then
-              ZIP_NAME="${ZIP_NAME//\{DATE\}/$BUILD_DATE}"
+          for BRANCH in "$PRIMARY_BRANCH" $TARGET_BRANCHES; do
+            git checkout "$BRANCH"
+            if [ "$BRANCH" = "$PRIMARY_BRANCH" ]; then
+              ZIP_NAME="Modernity-${VERSION}-${SHORT_SHA}.zip"
+            else
+              VAR_NAME="ZIP_NAME_${BRANCH//-/_}"
+              ZIP_NAME="${!VAR_NAME}"
             fi
 
             rm -rf zip-root
@@ -85,8 +99,6 @@ jobs:
         shell: bash
         env:
           INCLUDE_PATHS: ${{ env.INCLUDE_PATHS }}
-          BUILD_DATE: ${{ env.BUILD_DATE }}
-          ZIP_NAME_main: ${{ env.ZIP_NAME_main }}
           ZIP_NAME_no_mixed_color_gc_plate: ${{ env.ZIP_NAME_no_mixed_color_gc_plate }}
           ZIP_NAME_resonatic_circuit: ${{ env.ZIP_NAME_resonatic_circuit }}
           ZIP_NAME_gtnh_color: ${{ env.ZIP_NAME_gtnh_color }}
@@ -154,16 +166,16 @@ jobs:
 
       - name: Build release body from BUILD_README.md
         run: |
-          git checkout main
-          printf "RELEASE_BODY<<EOF\n%s\nEOF\n" "$(cat BUILD_README.md)" >> $GITHUB_ENV
+          printf "RELEASE_BODY<<EOF\n%s\nEOF\n" "$(git show "$PRIMARY_BRANCH:BUILD_README.md")" >> $GITHUB_ENV
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          name: Weekly Build ${{ env.BUILD_DATE }}
-          tag_name: weekly-${{ env.BUILD_DATE }}
+          name: Modernity-${{ matrix.version }}-${{ env.SHORT_SHA }}
+          tag_name: weekly-${{ matrix.version }}-${{ env.BUILD_DATE }}
+          target_commitish: ${{ env.FULL_SHA }}
           prerelease: false
-          make_latest: true
+          make_latest: ${{ matrix.latest }}
           body: ${{ env.RELEASE_BODY }}
           files: |
             *.zip
