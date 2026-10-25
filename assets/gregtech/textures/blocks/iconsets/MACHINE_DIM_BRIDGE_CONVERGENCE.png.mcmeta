@@ -1,0 +1,44 @@
+{
+  "animation": {
+    "frametime": 8,
+    "interpolate": true
+  },
+  "myctmlib": {
+    "connection": "gregtech:iconsets/MACHINE_DIM_BRIDGE_CONVERGENCE_ctm",
+    "equivalents": [
+      "gregtech:iconsets/MACHINE_DIM_BRIDGE",
+      "gregtech:iconsets/MACHINE_DIM_BRIDGE_CONVERGENCE",
+      "gregtech:iconsets/MACHINE_DIM_TRANS_CASING",
+      "gregtech:iconsets/EM_HOLLOW",
+      "gregtech:iconsets/EM_TIMESPACE",
+      "gregtech:iconsets/EM_ULTIMATE_FIELD",
+      "gregtech:iconsets/STABILITY_CASING_0",
+      "gregtech:iconsets/STABILITY_CASING_1",
+      "gregtech:iconsets/STABILITY_CASING_2",
+      "gregtech:iconsets/STABILITY_CASING_3",
+      "gregtech:iconsets/STABILITY_CASING_4",
+      "gregtech:iconsets/STABILITY_CASING_5",
+      "gregtech:iconsets/STABILITY_CASING_6",
+      "gregtech:iconsets/STABILITY_CASING_7",
+      "gregtech:iconsets/STABILITY_CASING_8",
+      "gregtech:iconsets/EM_FIELD_0",
+      "gregtech:iconsets/EM_FIELD_1",
+      "gregtech:iconsets/EM_FIELD_2",
+      "gregtech:iconsets/EM_FIELD_3",
+      "gregtech:iconsets/EM_FIELD_4",
+      "gregtech:iconsets/EM_FIELD_5",
+      "gregtech:iconsets/EM_FIELD_6",
+      "gregtech:iconsets/EM_FIELD_7",
+      "gregtech:iconsets/EM_FIELD_8",
+      "gregtech:iconsets/EM_DIM_0",
+      "gregtech:iconsets/EM_DIM_1",
+      "gregtech:iconsets/EM_DIM_2",
+      "gregtech:iconsets/EM_DIM_3",
+      "gregtech:iconsets/EM_DIM_4",
+      "gregtech:iconsets/EM_DIM_5",
+      "gregtech:iconsets/EM_DIM_6",
+      "gregtech:iconsets/EM_DIM_7",
+      "gregtech:iconsets/EM_DIM_8"
+    ]
+  }
+}

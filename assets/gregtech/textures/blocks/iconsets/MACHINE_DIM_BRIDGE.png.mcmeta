@@ -7,6 +7,7 @@
     "connection": "gregtech:iconsets/MACHINE_DIM_BRIDGE_ctm",
     "equivalents": [
       "gregtech:iconsets/MACHINE_DIM_BRIDGE",
+      "gregtech:iconsets/MACHINE_DIM_BRIDGE_CONVERGENCE",
       "gregtech:iconsets/MACHINE_DIM_TRANS_CASING",
       "gregtech:iconsets/EM_HOLLOW",
       "gregtech:iconsets/EM_TIMESPACE",
