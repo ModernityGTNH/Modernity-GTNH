@@ -1,0 +1,6 @@
+{
+  "myctmlib": {
+    "connection": "miscutils:TileEntities/MACHINE_CASING_GEARBOX_T1_ctm",
+    "alt": "miscutils:TileEntities/MACHINE_CASING_GEARBOX_T1_alt"
+  }
+}
