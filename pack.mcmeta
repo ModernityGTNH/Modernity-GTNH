@@ -5,6 +5,24 @@
   },
   "myctmlib": {
     "enableBeeJsonModels": true,
-    "enableAe2JsonModels": true
+    "enableAe2JsonModels": {
+      "drive": true,
+      "chest": true,
+      "wireless_access_point": true,
+      "charger": true,
+      "inscriber": true,
+      "advanced_inscriber": true,
+      "molecular_assembler": true,
+      "tiny_tnt": true,
+      "crank": true,
+      "quartz_fixture": true,
+      "sky_chest": true,
+      "smooth_sky_chest": true,
+      "meteorite_compass": true,
+      "matter_cannon": true,
+      "network_tool": true,
+      "advanced_network_tool": true,
+      "color_applicator": true
+    }
   }
 }
