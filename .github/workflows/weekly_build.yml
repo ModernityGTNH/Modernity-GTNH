@@ -14,12 +14,12 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - branch: main
-            version: 2.8.x
-            latest: false
           - branch: 2.9.X
             version: 2.9.x
             latest: true
+          - branch: 2.8.X
+            version: 2.8.x
+            latest: false
 
     env:
       PRIMARY_BRANCH: ${{ matrix.branch }}
