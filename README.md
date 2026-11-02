@@ -106,7 +106,7 @@ You only need to install [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and ad
 
 You can cancel certain modelized texture in pack.mcmeta settings.
 
-**Notice:** We replaced bee texture with modelized textures and removed old bee textures from main pack.
+**Notice:** We replaced bee textures with modelized textures and removed old bee textures from main pack.
 
 ## Recommended texturepacks and addons
 
