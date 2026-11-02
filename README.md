@@ -1,10 +1,3 @@
-## 🟥 NOTICE! PLEASE READ! 🟥
-
-### The links below currently do not work!
-
-Modernity is currently undergoing a large scale texture rework. There will be no new releases until it is completed. If you need the resourcepack, please click `Code -> Download ZIP` on the top right of the repo to download and use it yourself.
-
-
 <p align="center">
   <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest">
     <img src="pack.png" width="150">
@@ -107,6 +100,13 @@ You only need to install [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and ad
 > ### ~~There is a serious Z-Fighting issue!~~
 >
 > This issue has been fixed, but there are still some minor problems remaining
+
+## Modelized Textures
+**When [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) is installed, certain items and blocks textures will have modelized textures instead of normal textures.**
+
+You can cancel certain modelized texture in pack.mcmeta settings.
+
+**Notice:** We replaced bee texture with modelized textures and removed old bee textures from main pack.
 
 ## Recommended texturepacks and addons
 
