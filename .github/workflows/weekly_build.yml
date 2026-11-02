@@ -14,11 +14,11 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - branch: 2.9.X
-            version: 2.9.x
+          - branch: 29x
+            version: 29x
             latest: true
-          - branch: 2.8.X
-            version: 2.8.x
+          - branch: 28x
+            version: 28x
             latest: false
 
     env:
