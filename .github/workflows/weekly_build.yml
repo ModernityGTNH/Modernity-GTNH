@@ -42,8 +42,8 @@ jobs:
         Just-Productive-Bees=https://github.com/DarkScorpyon/Just-Productive-Bees-
         Just-Forestry-Bees=https://github.com/DarkScorpyon/Just-Forestry-Bees-
         Medium-Large-Turbine=https://github.com/DarkScorpyon/Medium-Large-Turbine
-        Modernity-GTNH-UI=https://github.com/ModernityGTNH/Modernity-GTNH-UI
-        Modernity-GTNH-Dark-UI=https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI
+        Modernity-GTNH-UI=https://github.com/ModernityGTNH/Modernity-GTNH-UI|29x
+        Modernity-GTNH-Dark-UI=https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI|29x
 
       EXTERNAL_ZIP_NAME_OutlinedOres_Modern: "Modernity-GTNHAddon-OutlinedOres.zip"
       EXTERNAL_ZIP_NAME_Just_Productive_Bees: "Modernity-GTNHAddon-Just-Productive-Bees.zip"
