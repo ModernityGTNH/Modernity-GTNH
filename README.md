@@ -1,17 +1,18 @@
 <p align="center">
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/">
     <img src="pack.png" width="150">
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/" style="text-decoration: none; color: inherit;">
     Modernity-GTNH
   </a>
 </h1>
 
 <h2 align="center">
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip" style="text-decoration: none;">
+  <!--
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/" style="text-decoration: none;">
     <strong><em>Download Latest Official Resourcepack</em></strong>
   </a>
   <br>
@@ -20,7 +21,8 @@
          alt="Pre-release"
          width="100">
   </a>
-  <br><br>
+  <br>
+  <br>
   <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/tag/v1.5.9" style="text-decoration: none;">
     <strong><em>Download Other Addon and UI Resourcepack</em></strong>
   </a>
@@ -30,7 +32,8 @@
          alt="Pre-release"
          width="100">
   </a>
-  <br><br>
+  <br>
+  <br>
   <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_28x.jar" style="text-decoration: none;">
     <strong><em>Download MyCTMLib for GTNH 2.8.x</em></strong>
   </a>
@@ -50,24 +53,27 @@
          alt="Pre-release"
          width="240">
   </a>
-  <br><br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip" style="text-decoration: none;">
+  <br>
+  <br>
+  -->
+
+  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest" style="text-decoration: none;">
     <strong><em>Download Latest Auto Build</em></strong>
   </a>
   <br>
   <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest">
     <img src="https://img.shields.io/github/v/release/ModernityGTNH/Modernity-GTNH"
          alt="Latest"
-         width="100">
+         width="150">
   </a>
 </h2>
 
 
-The objective of this resource pack is to update all the textures of GTNH to the style of Minecraft ~~1.14.4+~~ 1.20.1+.
+The objective of this resource pack is to update all the textures of GTNH to the style of Minecraft ~~1.14.4+ 1.20.1+~~ 26.3+.
 
 However, due to recent extensive changes and modifications being made to GTNH and its related Gregtech modules. ~~We are not currently updating the textures of GT~~ Currently in production.
 
-It's still work in progress, and it is expected to be compatible with GTNH version ~~2.6.0, 2.7.1, 2.8.0~~ 2.9.0
+It's still work in progress, and it is expected to be compatible with GTNH version ~~2.6.0  2.7.1  2.8.0~~ 2.9.0
 
 ## Features
 
@@ -75,18 +81,20 @@ All textures, including UI elements, blocks, and items, and effects will be comp
 
 ## CTM Textures
 
-**When [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) is installed, certain blocks will be given connecting textures with themselves and others, massively improving the look of your machines!**
+**When [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) is installed, certain blocks will be given connecting textures with themselves and others, massively improving the look of your machines!**
 
-**Download the version of [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) that matches your major version!**
+**Download the version of [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) that matches your major version!**
 
-> Download 27x for 2.7
+> [Download 27x for 2.7](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/v1.2.5_27x)
 
-> Download 28x for 2.8
+> [Download 28x for 2.8](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/v1.2.5_28x)
 
-~~If you want to use connected textures, please download this mod here [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and place the `MyCTMLib.cfg` file into the `config folder`~~
+> [Download 28x for 2.9](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/1.4.4-290) 
+
+~~If you want to use connected textures, please download this mod here [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) and place the `MyCTMLib.cfg` file into the `config folder`~~
 
 **Starting from version 1.1.0, there is no need to place the configuration file anymore.
-You only need to install [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and add the resource pack to use connected textures.**
+You only need to install [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) and add the resource pack to use connected textures.**
 **Older versions still require adding the configuration file!**
 
 >Older mod is temporarily suspended from updating, but it can still be used.
@@ -102,11 +110,11 @@ You only need to install [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) and ad
 > This issue has been fixed, but there are still some minor problems remaining
 
 ## Modelized Textures
-**When [`MyCTMLib`](https://github.com/ABKQPO/MyCTMLib) is installed, certain items and blocks textures will have modelized textures instead of normal textures.**
+**Starting from version 1.4.0, when [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) is installed, certain items and blocks textures will have modelized textures instead of normal textures.**
 
 You can cancel certain modelized texture in pack.mcmeta settings.
 
-**Notice:** We replaced bee textures with modelized textures and removed old bee textures from main pack.
+**Notice:** We replaced bee textures with modelized textures and removed old bee textures from main pack since 2.9.0. You can use [Modernity-Bees](https://github.com/DarkScorpyon/Just-Productive-Bees-) to recover the old bee textures.
 
 ## Recommended texturepacks and addons
 
