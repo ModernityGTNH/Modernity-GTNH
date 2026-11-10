@@ -42,8 +42,8 @@ jobs:
         Just-Productive-Bees=https://github.com/DarkScorpyon/Just-Productive-Bees-
         Just-Forestry-Bees=https://github.com/DarkScorpyon/Just-Forestry-Bees-
         Medium-Large-Turbine=https://github.com/DarkScorpyon/Medium-Large-Turbine
-        Modernity-GTNH-UI=https://github.com/ABKQPO/Modernity-GTNH-UI
-        Modernity-GTNH-Dark-UI=https://github.com/ABKQPO/Modernity-GTNH-Dark-UI
+        Modernity-GTNH-UI=https://github.com/ModernityGTNH/Modernity-GTNH-UI
+        Modernity-GTNH-Dark-UI=https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI
 
       EXTERNAL_ZIP_NAME_OutlinedOres_Modern: "Modernity-GTNHAddon-OutlinedOres.zip"
       EXTERNAL_ZIP_NAME_Just_Productive_Bees: "Modernity-GTNHAddon-Just-Productive-Bees.zip"
@@ -65,7 +65,7 @@ jobs:
           echo "FULL_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "SHORT_SHA=$(git rev-parse --short=7 HEAD)" >> $GITHUB_ENV
 
-      - name: Get last two release tags from ABKQPO/MyCTMLib
+      - name: Get last two release tags from GTNotLeisure/MyCTMLib
         id: get_tags
         run: |
           response=$(curl -s "https://api.github.com/repos/GTNotLeisure/MyCTMLib/releases?per_page=2")
