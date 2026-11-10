@@ -68,7 +68,7 @@ jobs:
       - name: Get last two release tags from ABKQPO/MyCTMLib
         id: get_tags
         run: |
-          response=$(curl -s "https://api.github.com/repos/ABKQPO/MyCTMLib/releases?per_page=2")
+          response=$(curl -s "https://api.github.com/repos/GTNotLeisure/MyCTMLib/releases?per_page=2")
           tags=($(echo "$response" | jq -r '.[].tag_name'))
           echo "TAG1=${tags[0]}" >> $GITHUB_ENV
           echo "TAG2=${tags[1]}" >> $GITHUB_ENV
@@ -156,7 +156,7 @@ jobs:
         run: |
           mkdir jars
           for TAG in "$TAG1" "$TAG2"; do
-            url="https://github.com/ABKQPO/MyCTMLib/releases/download/${TAG}/MyCTMLib-${TAG}.jar"
+            url="https://github.com/GTNotLeisure/MyCTMLib/releases/download/${TAG}/MyCTMLib-${TAG}.jar"
             curl -L "$url" -o jars/MyCTMLib-${TAG}.jar
           done
         shell: bash
