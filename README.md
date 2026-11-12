@@ -86,9 +86,9 @@ All textures, including UI elements, blocks, and items, and effects will be comp
 **Download the version of [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) that matches your major version!**
 
 > [Download 27x for 2.7](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/v1.2.5_27x)
-
+>
 > [Download 28x for 2.8](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/v1.2.5_28x)
-
+>
 > [Download 28x for 2.9](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/1.4.4-290) 
 
 ~~If you want to use connected textures, please download this mod here [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) and place the `MyCTMLib.cfg` file into the `config folder`~~
@@ -179,5 +179,6 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa)                                                                                | Vajra / Matter Manipulator                                                                                              | Permission granted                                                    |
 | [Connected-GT](https://modrinth.com/resourcepack/connected-gt)                                                                                | Battery & ULV Casing CTM                                                                                                | [MIT](https://opensource.org/licenses/MIT)                            |
 | [Re:Avaritia](https://github.com/Nova-Committee/Re-Avaritia) / [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration) | Avaritia textures                                                                                                       | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [unused-textures](https://github.com/malcolmriley/unused-textures?tab=CC-BY-4.0-1-ov-file) (malcolmriley) | Selected textures                                                                                                       | [CC BY-4.0](https://creativecommons.org/licenses/by/4.0/) |
 | [Twillight Forest](https://github.com/TeamTwilight/twilightforest)                                                                                | Berries textures                                                                                                 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | [Jtweaks](https://github.com/june-dev-username/JTweaks) (June)                                                                                | Selected textures                                                                                                 | Permission granted |
