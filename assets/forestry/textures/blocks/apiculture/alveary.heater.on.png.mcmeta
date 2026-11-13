@@ -10,6 +10,7 @@
         "time": 10
       }
     ],
-    "frametime": 1
+    "frametime": 1,
+    "interpolate": true
   }
 }

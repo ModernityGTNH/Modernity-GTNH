@@ -11,52 +11,6 @@
 </h1>
 
 <h2 align="center">
-  <!--
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/" style="text-decoration: none;">
-    <strong><em>Download Latest Official Resourcepack</em></strong>
-  </a>
-  <br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/Modernity-GTNH-v1.5.9.zip">
-    <img src="https://img.shields.io/badge/release-v1.5.9-blue"
-         alt="Pre-release"
-         width="100">
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/tag/v1.5.9" style="text-decoration: none;">
-    <strong><em>Download Other Addon and UI Resourcepack</em></strong>
-  </a>
-  <br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/tag/v1.5.9">
-    <img src="https://img.shields.io/badge/release-v1.5.9-orange"
-         alt="Pre-release"
-         width="100">
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_28x.jar" style="text-decoration: none;">
-    <strong><em>Download MyCTMLib for GTNH 2.8.x</em></strong>
-  </a>
-  <br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_28x.jar">
-    <img src="https://img.shields.io/badge/release-MyCTMLib_v1.2.5_GTNH28x-green"
-         alt="Pre-release"
-         width="240">
-  </a>
-  <br><br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_27x.jar" style="text-decoration: none;">
-    <strong><em>Download MyCTMLib for GTNH 2.7.x</em></strong>
-  </a>
-  <br>
-  <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/download/v1.5.9/MyCTMLib-v1.2.5_27x.jar">
-    <img src="https://img.shields.io/badge/release-MyCTMLib_v1.2.5_GTNH27x-green"
-         alt="Pre-release"
-         width="240">
-  </a>
-  <br>
-  <br>
-  -->
-
   <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest" style="text-decoration: none;">
     <strong><em>Download Latest Auto Build</em></strong>
   </a>
@@ -69,11 +23,9 @@
 </h2>
 
 
-The objective of this resource pack is to update all the textures of GTNH to the style of Minecraft ~~1.14.4+ 1.20.1+~~ 26.3+.
+The objective of this resource pack is to update all the textures of GTNH to the style of Minecraft 26.3+.
 
-However, due to recent extensive changes and modifications being made to GTNH and its related Gregtech modules. ~~We are not currently updating the textures of GT~~ Currently in production.
-
-It's still work in progress, and it is expected to be compatible with GTNH version ~~2.6.0  2.7.1  2.8.0~~ 2.9.0
+It's still work in progress, and it is expected to be compatible with GTNH version 2.9.0
 
 ## Features
 
@@ -89,25 +41,11 @@ All textures, including UI elements, blocks, and items, and effects will be comp
 >
 > [Download 28x for 2.8](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/v1.2.5_28x)
 >
-> [Download 28x for 2.9](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/1.4.4-290) 
+> [Download 29x for 2.9](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/1.4.4-290) 
 
-~~If you want to use connected textures, please download this mod here [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) and place the `MyCTMLib.cfg` file into the `config folder`~~
-
-**Starting from version 1.1.0, there is no need to place the configuration file anymore.
+**Starting from version 1.1.0, there is no need to place the configuration file anymore.**
 You only need to install [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) and add the resource pack to use connected textures.**
-**Older versions still require adding the configuration file!**
 
->Older mod is temporarily suspended from updating, but it can still be used.
->
->https://github.com/ElytraServers/MyCTMLib
->
->https://github.com/wohaopa/MyCTMLib
->
->https://github.com/Soammer/MyCTMLib
->
-> ### ~~There is a serious Z-Fighting issue!~~
->
-> This issue has been fixed, but there are still some minor problems remaining
 
 ## Modelized Textures
 **Starting from version 1.4.0, when [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) is installed, certain items and blocks textures will have modelized textures instead of normal textures.**
@@ -118,9 +56,9 @@ You can cancel certain modelized texture in pack.mcmeta settings.
 
 ## Recommended texturepacks and addons
 
-Shadow UI [Shadow-UI](https://github.com/Ranzuu/Shadow-UI)
+[Shadow-UI](https://github.com/Ranzuu/Shadow-UI)
 
-AE2 Dark Mode [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
+[AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 
 ## UI resourcepacks
 
@@ -145,8 +83,6 @@ AE2 Dark Mode [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 ### SGcraft
   <img src="https://raw.githubusercontent.com/ModernityGTNH/Modernity-GTNH/main/Screenshots/SGcraft.png" />
 
-
-
 ### GT5U Materials
   <img src="https://raw.githubusercontent.com/ModernityGTNH/Modernity-GTNH/main/Screenshots/Materials.png" />
 
@@ -166,19 +102,58 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
   <img src="https://contrib.rocks/image?repo=ModernityGTNH/Modernity-GTNH&max=1000" alt="contributors" />
 </a>
 
+### The Textures-Update-Related Mod Credits
+
+| Mod                                                                    |                                                                     License                                                               |
+|:----------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
+| [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
+| [Blood Magic 3](https://github.com/WayofTime/BloodMagic/tree/1.20.1) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| [Botania](https://github.com/VazkiiMods/Botania) (Vazkii) | [Custom License](https://github.com/VazkiiMods/Botania/blob/1.20.x/LICENSE.txt) |
+| [Iron Chests](https://github.com/progwml6/ironchest) | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
+| [Tinkers' Construct 3](https://github.com/SlimeKnights/TinkersConstruct/) | [MIT](https://opensource.org/licenses/MIT) |
+
+
+
 ### Additional Credits
 
 | Source                                                                                                                                        | Content / Assets                                                                                                        | License                                                               |
 |:----------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
-| [GregTech: Refreshed](https://github.com/ULSTICK/GregTechRefreshed)                                                                           | Most original textures                                                                                                  | [MIT](https://opensource.org/licenses/MIT)                            |
-| [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x) (Aim__Boot)                                                             | bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block | Permission granted                                                    |
-| [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) (zozozrob_)                                                       | thaum-pack                                                                                                              | Permission granted                                                    |
-| [Darkpuppey's Modded Overhauls!](https://www.curseforge.com/minecraft/texture-packs/darkpuppeys-modded-overhauls) (Darkpuppey2_)              | Draconic Evolution textures                                                                                             | Permission granted                                                    |
-| [CosmicCore](https://github.com/Frontiers-PackForge/CosmicCore) (Ghostipedia)                                                                 | Selected textures                                                                                                       | [MIT](https://opensource.org/licenses/MIT) and Permission granted     |
-| [GTOCore](https://github.com/GregTech-Odyssey/GTOCore)                                                                                        | Selected textures                                                                                                       | Permission granted                                                    |
-| [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa)                                                                                | Vajra / Matter Manipulator                                                                                              | Permission granted                                                    |
-| [Connected-GT](https://modrinth.com/resourcepack/connected-gt)                                                                                | Battery & ULV Casing CTM                                                                                                | [MIT](https://opensource.org/licenses/MIT)                            |
-| [Re:Avaritia](https://github.com/Nova-Committee/Re-Avaritia) / [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration) | Avaritia textures                                                                                                       | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
-| [unused-textures](https://github.com/malcolmriley/unused-textures?tab=CC-BY-4.0-1-ov-file) (malcolmriley) | Selected textures                                                                                                       | [CC BY-4.0](https://creativecommons.org/licenses/by/4.0/) |
-| [Twillight Forest](https://github.com/TeamTwilight/twilightforest)                                                                                | Berries textures                                                                                                 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
-| [Jtweaks](https://github.com/june-dev-username/JTweaks) (June)                                                                                | Selected textures                                                                                                 | Permission granted |
+| [GregTech: Refreshed](https://github.com/ULSTICK/GregTechRefreshed) | Most of the original Gregtech textures | [MIT](https://opensource.org/licenses/MIT) |
+| [Gregtech-Modern](https://github.com/GregTechCEu/GregTech-Modern) | Some Gregtech textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
+| [Stargate Journey](https://github.com/Povstalec/StargateJourney) | Star Gate textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Ender IO: Into the Void](https://www.curseforge.com/minecraft/texture-packs/ender-io-refrubished) (imBL4CK_) | EnderIO textures | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
+| [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x) (Aim__Boot) | bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block | Permission granted |
+| [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) (zozozrob_) | Thaumcraft textures | Permission granted |
+| [Darkpuppey's Modded Overhauls!](https://www.curseforge.com/minecraft/texture-packs/darkpuppeys-modded-overhauls) (Darkpuppey2_) | Draconic Evolution textures | Permission granted |
+| [CosmicCore](https://github.com/Frontiers-PackForge/CosmicCore) (Ghostipedia) | Selected textures | [MIT](https://opensource.org/licenses/MIT) and Permission granted |
+| [GTOCore](https://github.com/GregTech-Odyssey/GTOCore) | Selected textures | Permission granted |
+| [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa) | Vajra / Matter Manipulator | Permission granted |
+| [Connected-GT](https://modrinth.com/resourcepack/connected-gt) | Battery & ULV Casing CTM | [MIT](https://opensource.org/licenses/MIT) |
+| [Re:Avaritia](https://github.com/Nova-Committee/Re-Avaritia) / [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration) | Avaritia textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/twilight-forest-jappa-pack) | Twillight Forest textures | All Rights Reserved $^{1}$ |
+| [Forestry:CE](https://github.com/thedarkcolour/ForestryCE?tab=readme-ov-file)  | Forestry textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
+| [Thaumon](https://github.com/shizotoaster/thaumon) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
+| [Mini Utilities](https://www.curseforge.com/minecraft/mc-mods/miniutilities) | Extra Utilities textures | [MIT](https://opensource.org/licenses/MIT) |
+| [Etherology](https://github.com/feytox/Etherology) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) and Permission granted |
+| [Farmer's Delight](https://github.com/vectorwing/FarmersDelight) | Selected Textures | [MIT](https://opensource.org/licenses/MIT) |
+| [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) | Selected Textures | [Custom License](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/license) |
+| [Create](https://github.com/Creators-of-Create/Create)  | Selected Textures | All Rights Reserved $^{2}$ |
+| [unused-textures](https://github.com/malcolmriley/unused-textures) (malcolmriley) | Selected textures | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+| [Twillight Forest](https://github.com/TeamTwilight/twilightforest) | Berries textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Jtweaks](https://github.com/june-dev-username/JTweaks) (June) | Selected textures | Permission granted |
+| [AE2 Lightning Tech Reborn](https://github.com/AE2-Lightning-Tech-Reborn/AE2-Lightning-Tech-Reborn) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
+| [Super Factory Manager](https://github.com/TeamDman/SuperFactoryManager) | Selected textures | [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) |
+| [Extra Utilities Reutilized](https://github.com/WavexDK/extrautilities-reutilized) | Angel block | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed with [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed with All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
+
+2 The [Create](https://github.com/Creators-of-Create/Create) is licensed with [MIT](https://opensource.org/licenses/MIT) for codes and with All Rights Reserved for art assets now but it was changed since Sep 22, 2025. Before license changing, it was licensed with [MIT](https://opensource.org/licenses/MIT) for the whole ‌repository‌. So we're still using some textures from [Create](https://github.com/Creators-of-Create/Create) which was uploaded before the license changing. Since [Create](https://github.com/Creators-of-Create/Create) has already changed the license for art assets, we're not using more textures from it afterwards and will try to replace them as possible as we could. If there're any copyright problems, please contact us.<br>
+
+\* Due to earlier oversight of the license, there're still many textures were taken from All Rights Reserved repositories, which definitely need to be replaced in the future. If there're any copyright problems, please contact us. Sorry for the unauthorized using.
+
+---
+
+## License
+All the code files and most of the textures (not specifically mentioned) are licensed with [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licnese. <br>
+The textures from and made with the original repositories licensed with [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license are licensed with [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license.<br>
+The textures from and made with the original repositories licensed with [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license are licensed with [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.
