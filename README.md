@@ -43,8 +43,7 @@ All textures, including UI elements, blocks, and items, and effects will be comp
 >
 > [Download 29x for 2.9](https://github.com/GTNotLeisure/MyCTMLib/releases/tag/1.4.4-290) 
 
-**Starting from version 1.1.0, there is no need to place the configuration file anymore.**
-You only need to install [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) and add the resource pack to use connected textures.**
+**Starting from version 1.1.0, there is no need to place the configuration file anymore. You only need to install [`MyCTMLib`](https://github.com/GTNotLeisure/MyCTMLib) and add the resource pack to use connected textures.**
 
 
 ## Modelized Textures
