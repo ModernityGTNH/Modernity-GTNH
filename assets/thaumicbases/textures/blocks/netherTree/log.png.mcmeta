@@ -4,63 +4,63 @@
     "frames": [
       {
         "index": 6,
-        "time": 19
+        "time": 14
       },
       5,
       4,
       {
         "index": 3,
-        "time": 3
+        "time": 2
       },
       {
         "index": 2,
-        "time": 2
+        "time": 1
       },
       {
         "index": 1,
-        "time": 2
+        "time": 1
       },
       {
         "index": 0,
-        "time": 8
+        "time": 5
       },
       {
         "index": 1,
-        "time": 2
+        "time": 1
       },
       {
         "index": 2,
-        "time": 2
+        "time": 1
       },
       {
         "index": 3,
-        "time": 3
+        "time": 2
       },
       4,
       5,
       {
         "index": 6,
-        "time": 3
+        "time": 2
+      },
+      {
+        "index": 5,
+        "time": 6
+      },
+      {
+        "index": 4,
+        "time": 4
+      },
+      {
+        "index": 5,
+        "time": 8
+      },
+      {
+        "index": 6,
+        "time": 14
       },
       {
         "index": 5,
         "time": 10
-      },
-      {
-        "index": 4,
-        "time": 7
-      },
-      {
-        "index": 5,
-        "time": 15
-      },
-      {
-        "index": 6,
-        "time": 28
-      },
-      {
-        "index": 5,
-        "time": 19
       }
     ]
   }
