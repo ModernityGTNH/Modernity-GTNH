@@ -110,6 +110,7 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Botania](https://github.com/VazkiiMods/Botania) (Vazkii) | [Custom License](https://github.com/VazkiiMods/Botania/blob/1.20.x/LICENSE.txt) |
 | [Iron Chests](https://github.com/progwml6/ironchest) | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
 | [Tinkers' Construct 3](https://github.com/SlimeKnights/TinkersConstruct/) | [MIT](https://opensource.org/licenses/MIT) |
+| [Galacticraft 5](https://github.com/TeamGalacticraft/Galacticraft) | [MIT](https://opensource.org/licenses/MIT) |
 
 
 
