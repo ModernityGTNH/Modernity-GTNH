@@ -143,7 +143,10 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Jtweaks](https://github.com/june-dev-username/JTweaks) (June) | Selected textures | Permission granted |
 | [AE2 Lightning Tech Reborn](https://github.com/AE2-Lightning-Tech-Reborn/AE2-Lightning-Tech-Reborn) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
 | [Super Factory Manager](https://github.com/TeamDman/SuperFactoryManager) | Selected textures | [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) |
-| [Extra Utilities Reutilized](https://github.com/WavexDK/extrautilities-reutilized) | Angel block | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+| [Extra Utilities Reutilized](https://github.com/WavexDK/extrautilities-reutilized) | Angel block | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Mekanism](https://github.com/mekanism/Mekanism) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
+| [Industrial Foregoing](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
+| [OpenComputers II](https://github.com/fnuecke/oc2/) | redstone interface card, circuit board | [MIT](https://opensource.org/licenses/MIT) and BSD-2-Clause |
 
 1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed with [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed with All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
 
