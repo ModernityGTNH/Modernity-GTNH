@@ -148,6 +148,7 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Mekanism](https://github.com/mekanism/Mekanism) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
 | [Industrial Foregoing](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
 | [OpenComputers II](https://github.com/fnuecke/oc2/) | redstone interface card, circuit board, transistor, hard drive, network interface card， memory, floppy disk  | [MIT](https://opensource.org/licenses/MIT) and [BSD-2-Clause](https://opensource.org/license/bsd-2-clause) |
+| [Tech Reborn](https://github.com/TechReborn/TechReborn) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
 
 1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed under All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
 
