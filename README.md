@@ -149,6 +149,7 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Industrial Foregoing](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
 | [OpenComputers II](https://github.com/fnuecke/oc2/) | redstone interface card, circuit board, transistor, hard drive, network interface card， memory, floppy disk  | [MIT](https://opensource.org/licenses/MIT) and [BSD-2-Clause](https://opensource.org/license/bsd-2-clause) |
 | [Tech Reborn](https://github.com/TechReborn/TechReborn) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
+| [Chisel Reborn](https://github.com/matthewperiut/Chisel-Reborn) | Selected textures | [GPL 2.0](https://opensource.org/license/gpl-2.0) |
 
 1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed under All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
 
@@ -160,5 +161,7 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 
 ## License
 All the code files and most of the textures (not specifically mentioned) are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licnese. <br>
-The textures from and made with the original repositories licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) and [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license are licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license.<br>
+The textures from and made with the original repositories licensed under [GPL 2.0](https://opensource.org/license/gpl-2.0) are licensed under [GPL 2.0](https://opensource.org/license/gpl-2.0) license.<br>
+The textures from and made with the original repositories licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) are licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) license.<br>
+The textures from and made with the original repositories licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license are licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license.<br>
 The textures from and made with the original repositories licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license are licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.
