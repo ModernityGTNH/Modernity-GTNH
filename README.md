@@ -129,9 +129,10 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [GTOCore](https://github.com/GregTech-Odyssey/GTOCore) | Selected textures | Permission granted |
 | [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa) | Vajra / Matter Manipulator | Permission granted |
 | [Connected-GT](https://modrinth.com/resourcepack/connected-gt) | Battery & ULV Casing CTM | [MIT](https://opensource.org/licenses/MIT) |
-| [Re:Avaritia](https://github.com/Nova-Committee/Re-Avaritia) / [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration) | Avaritia textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Re: Avaritia](https://github.com/Nova-Committee/Re-Avaritia) / [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration) | Avaritia textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/twilight-forest-jappa-pack) | Twillight Forest textures | All Rights Reserved $^{1}$ |
-| [Forestry:CE](https://github.com/thedarkcolour/ForestryCE?tab=readme-ov-file)  | Forestry textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
+| [Forestry: CE](https://github.com/thedarkcolour/ForestryCE?tab=readme-ov-file)  | Forestry textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
+| [Gendustry: CE](https://github.com/thedarkcolour/gendustry) | Gendustry textures | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
 | [Thaumon](https://github.com/shizotoaster/thaumon) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
 | [Mini Utilities](https://www.curseforge.com/minecraft/mc-mods/miniutilities) | Extra Utilities textures | [MIT](https://opensource.org/licenses/MIT) |
 | [Etherology](https://github.com/feytox/Etherology) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) and Permission granted |
@@ -146,17 +147,17 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Extra Utilities Reutilized](https://github.com/WavexDK/extrautilities-reutilized) | Angel block | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | [Mekanism](https://github.com/mekanism/Mekanism) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
 | [Industrial Foregoing](https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
-| [OpenComputers II](https://github.com/fnuecke/oc2/) | redstone interface card, circuit board, transistor, hard drive, network interface card， memory, floppy disk  | [MIT](https://opensource.org/licenses/MIT) and BSD-2-Clause |
+| [OpenComputers II](https://github.com/fnuecke/oc2/) | redstone interface card, circuit board, transistor, hard drive, network interface card， memory, floppy disk  | [MIT](https://opensource.org/licenses/MIT) and [BSD-2-Clause](https://opensource.org/license/bsd-2-clause) |
 
-1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed with [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed with All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
+1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed under All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
 
-2 The [Create](https://github.com/Creators-of-Create/Create) is licensed with [MIT](https://opensource.org/licenses/MIT) for codes and with All Rights Reserved for art assets now but it was changed since Sep 22, 2025. Before license changing, it was licensed with [MIT](https://opensource.org/licenses/MIT) for the whole ‌repository‌. So we're still using some textures from [Create](https://github.com/Creators-of-Create/Create) which was uploaded before the license changing. Since [Create](https://github.com/Creators-of-Create/Create) has already changed the license for art assets, we're not using more textures from it afterwards and will try to replace them as possible as we could. If there're any copyright problems, please contact us.<br>
+2 The [Create](https://github.com/Creators-of-Create/Create) is licensed under [MIT](https://opensource.org/licenses/MIT) for codes and under All Rights Reserved for art assets now but it was changed since Sep 22, 2025. Before license changing, it was licensed under [MIT](https://opensource.org/licenses/MIT) for the whole ‌repository‌. So we're still using some textures from [Create](https://github.com/Creators-of-Create/Create) which was uploaded before the license changing. Since [Create](https://github.com/Creators-of-Create/Create) has already changed the license for art assets, we're not using more textures from it afterwards and will try to replace them as possible as we could. If there're any copyright problems, please contact us.<br>
 
 \* Due to earlier oversight of the license, there're still many textures were taken from All Rights Reserved repositories, which definitely need to be replaced in the future. If there're any copyright problems, please contact us. Sorry for the unauthorized using.
 
 ---
 
 ## License
-All the code files and most of the textures (not specifically mentioned) are licensed with [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licnese. <br>
-The textures from and made with the original repositories licensed with [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license are licensed with [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license.<br>
-The textures from and made with the original repositories licensed with [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license are licensed with [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.
+All the code files and most of the textures (not specifically mentioned) are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licnese. <br>
+The textures from and made with the original repositories licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) and [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license are licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license.<br>
+The textures from and made with the original repositories licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license are licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.

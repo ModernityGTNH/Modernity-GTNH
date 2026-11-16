@@ -1,8 +1,8 @@
 # License Overview
 
-## The textures from and made with the original repositories licensed with LGPL 3.0
+## The textures from and made with the original repositories licensed under GPL 3.0 and LGPL 3.0
 
-**All the textures from and made with the original repositories licensed with LGPL 3.0 are licensed with LGPL-3.0 License:**
+**All the textures from and made with the original repositories licensed under GPL 3.0 and LGPL 3.0 are licensed under LGPL-3.0 License:**
 
                    GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
@@ -845,9 +845,9 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
-## The textures from and made with the original repositories licensed with MPL 2.0
+## The textures from and made with the original repositories licensed under MPL 2.0
 
-**All the textures from and made with the original repositories licensed with MPL 2.0 are licensed with MPL 2.0 License:**
+**All the textures from and made with the original repositories licensed under MPL 2.0 are licensed under MPL 2.0 License:**
 
 Mozilla Public License Version 2.0
 
@@ -1180,7 +1180,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 
 ## Other textures
-All the code files and all of the other texture files are licensed with the CC BY-NC-SA 4.0 License:
+**All the code files and all of the other texture files are licensed under the CC BY-NC-SA 4.0 License:**
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
