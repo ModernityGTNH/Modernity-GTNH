@@ -22,7 +22,11 @@
       "matter_cannon": true,
       "network_tool": true,
       "advanced_network_tool": true,
-      "color_applicator": true
+      "color_applicator": true,
+
+      "redstone_torch": true,
+      "repeater": true,
+      "comparator": true
     }
   }
 }
