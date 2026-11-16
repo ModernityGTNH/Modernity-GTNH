@@ -1,0 +1,184 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "#cell",
+    "cell": "myctmlib:blocks/ae2/cells/cells"
+  },
+  "elements": [
+    {
+      "name": "Cell Backdrop",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        6,
+        2,
+        2
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0.75,
+            0.25,
+            0.375,
+            0.375
+          ],
+          "texture": "#cell",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "name": "Cell Front",
+      "from": [
+        0,
+        1,
+        0
+      ],
+      "to": [
+        6,
+        2,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.375,
+            0.25,
+            0.75,
+            0.3125
+          ],
+          "texture": "#cell",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "name": "Cell Front",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        4,
+        1,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.5,
+            0.3125,
+            0.75,
+            0.375
+          ],
+          "texture": "#cell",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "name": "Cell Front",
+      "from": [
+        5,
+        0,
+        0
+      ],
+      "to": [
+        6,
+        1,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.375,
+            0.3125,
+            0.4375,
+            0.375
+          ],
+          "texture": "#cell",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "name": "Cell Bottom",
+      "from": [
+        0,
+        0,
+        1
+      ],
+      "to": [
+        6,
+        0,
+        2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.75,
+            0.25,
+            0.375,
+            0.3125
+          ],
+          "texture": "#cell",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "name": "Cell Bottom",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        4,
+        0,
+        1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.75,
+            0.3125,
+            0.5,
+            0.375
+          ],
+          "texture": "#cell",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "name": "Cell Bottom",
+      "from": [
+        5,
+        0,
+        0
+      ],
+      "to": [
+        6,
+        0,
+        1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4375,
+            0.3125,
+            0.375,
+            0.375
+          ],
+          "texture": "#cell",
+          "cullface": "north"
+        }
+      }
+    }
+  ]
+}

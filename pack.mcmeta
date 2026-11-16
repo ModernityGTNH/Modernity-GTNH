@@ -5,6 +5,7 @@
   },
   "myctmlib": {
     "enableBeeJsonModels": true,
+
     "enableAe2JsonModels": {
       "drive": true,
       "chest": true,
@@ -22,8 +23,10 @@
       "matter_cannon": true,
       "network_tool": true,
       "advanced_network_tool": true,
-      "color_applicator": true,
-
+      "color_applicator": true
+    },
+    
+    "enableMinecraftJsonModels": {
       "redstone_torch": true,
       "repeater": true,
       "comparator": true

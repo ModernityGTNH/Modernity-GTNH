@@ -1,0 +1,127 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "wood": "myctmlib:blocks/ae2/crank",
+    "particle": "#wood"
+  },
+  "elements": [
+    {
+      "from": [
+        7,
+        3,
+        7
+      ],
+      "to": [
+        9,
+        9,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            8,
+            4,
+            14
+          ],
+          "texture": "#wood"
+        },
+        "east": {
+          "uv": [
+            0,
+            8,
+            2,
+            14
+          ],
+          "texture": "#wood"
+        },
+        "south": {
+          "uv": [
+            6,
+            8,
+            8,
+            14
+          ],
+          "texture": "#wood"
+        },
+        "west": {
+          "uv": [
+            4,
+            8,
+            6,
+            14
+          ],
+          "texture": "#wood"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        9,
+        7
+      ],
+      "to": [
+        14,
+        11,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            8,
+            15,
+            10
+          ],
+          "texture": "#wood"
+        },
+        "east": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#wood"
+        },
+        "south": {
+          "uv": [
+            3,
+            4,
+            10,
+            6
+          ],
+          "texture": "#wood"
+        },
+        "west": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#wood"
+        },
+        "up": {
+          "uv": [
+            3,
+            6,
+            10,
+            8
+          ],
+          "texture": "#wood"
+        },
+        "down": {
+          "uv": [
+            8,
+            10,
+            15,
+            12
+          ],
+          "texture": "#wood"
+        }
+      }
+    }
+  ]
+}

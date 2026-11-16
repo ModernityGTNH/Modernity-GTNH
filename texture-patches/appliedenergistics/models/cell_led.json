@@ -1,0 +1,46 @@
+{
+  "ambientocclusion": false,
+  "elements": [
+    {
+      "shade": false,
+      "from": [
+        4,
+        0,
+        0
+      ],
+      "to": [
+        5,
+        1,
+        1
+      ],
+      "faces": {
+        "north": {
+          "texture": "#led",
+          "cullface": "north",
+          "uv": [
+            0.1,
+            0.1,
+            0.2,
+            0.2
+          ],
+          "tintindex": 4
+        },
+        "down": {
+          "texture": "#led",
+          "cullface": "north",
+          "uv": [
+            0.1,
+            0.1,
+            0.2,
+            0.2
+          ],
+          "tintindex": 4
+        }
+      }
+    }
+  ],
+  "textures": {
+    "particle": "#led",
+    "led": "myctmlib:blocks/ae2/white"
+  }
+}

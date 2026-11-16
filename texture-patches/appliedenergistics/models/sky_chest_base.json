@@ -1,0 +1,86 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "0": "myctmlib:blocks/ae2/skychest",
+    "particle": "myctmlib:blocks/ae2/skychest",
+    "front": "myctmlib:blocks/ae2/skychest",
+    "top": "myctmlib:blocks/ae2/skychest",
+    "side": "myctmlib:blocks/ae2/skychest"
+  },
+  "elements": [
+    {
+      "name": "Base",
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        10,
+        15
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            3.5,
+            8.25,
+            7,
+            10.75
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            8.25,
+            3.5,
+            10.75
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            10.5,
+            8.25,
+            14,
+            10.75
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            7,
+            8.25,
+            10.5,
+            10.75
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            0,
+            7,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            7,
+            0,
+            10.5,
+            3.5
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}
