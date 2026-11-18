@@ -31,5 +31,12 @@
       "repeater": true,
       "comparator": true
     }
+  },
+  "textures_patcher": {
+    "enableTexturesPatcherBlocks": true,
+
+    "enableSeparateForestryCircuitBoardTextures": true,
+    "enableSeparateForestryElectronTubeTextures": true,
+    "enableSeparateForestryHoneyDropTextures": true
   }
 }
