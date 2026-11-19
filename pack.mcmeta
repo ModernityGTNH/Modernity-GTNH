@@ -37,6 +37,7 @@
 
     "enableSeparateForestryCircuitBoardTextures": true,
     "enableSeparateForestryElectronTubeTextures": true,
-    "enableSeparateForestryHoneyDropTextures": true
+    "enableSeparateForestryHoneyDropTextures": true,
+    "enableSeparateSpawnEggTextures": true
   }
 }
