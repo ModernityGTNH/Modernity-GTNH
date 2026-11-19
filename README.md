@@ -53,6 +53,13 @@ You can cancel certain modelized texture in pack.mcmeta settings.
 
 **Notice:** We replaced bee textures with modelized textures and removed old bee textures from main pack since 2.9.0. You can use [Modernity-Bees](https://github.com/DarkScorpyon/Just-Productive-Bees-) to recover the old bee textures.
 
+## Texture Rendering Fix
+**When [`Tetures Patcher`](https://github.com/ModernityGTNH/Textures-Patcher) is installed, certain blocks rendering will be fixed, and certain auto-colored item textures will be setted to different textures.** <br>
+
+You can cancel certain texture fix in pack.mcmeta settings.<br>
+
+**Notice:** make sure you're using the newest weekly build, otherwise the fix won't be made.
+
 ## Recommended texturepacks and addons
 
 [Shadow-UI](https://github.com/Ranzuu/Shadow-UI)
@@ -80,10 +87,10 @@ You can cancel certain modelized texture in pack.mcmeta settings.
 
 
 ### SGcraft
-  <img src="https://raw.githubusercontent.com/ModernityGTNH/Modernity-GTNH/main/Screenshots/SGcraft.png" />
+  <img src="https://github.com/ModernityGTNH/Modernity-GTNH/blob/29x/Screenshots/SGcraft.png?raw=true" />
 
 ### GT5U Materials
-  <img src="https://raw.githubusercontent.com/ModernityGTNH/Modernity-GTNH/main/Screenshots/Materials.png" />
+  <img src="https://github.com/ModernityGTNH/Modernity-GTNH/blob/29x/Screenshots/Materials.png?raw=true" />
 
 ## Join us
 
