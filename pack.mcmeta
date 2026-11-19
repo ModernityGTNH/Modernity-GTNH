@@ -30,6 +30,12 @@
       "redstone_torch": true,
       "repeater": true,
       "comparator": true
+    },
+
+    "enableProjectRedJsonModels": true,
+    
+    "enableAutomagyJsonModels": {
+      "redstone_inversion_torch": true
     }
   },
   "textures_patcher": {
