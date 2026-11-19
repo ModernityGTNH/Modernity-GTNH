@@ -38,6 +38,7 @@
     "enableSeparateForestryCircuitBoardTextures": true,
     "enableSeparateForestryElectronTubeTextures": true,
     "enableSeparateForestryHoneyDropTextures": true,
-    "enableSeparateSpawnEggTextures": true
+    "enableSeparateSpawnEggTextures": true,
+    "enableSeparateGTCopperItemTextures": true
   }
 }
