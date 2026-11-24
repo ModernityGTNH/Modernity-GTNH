@@ -171,5 +171,5 @@ All the code files and most of the textures (not specifically mentioned) are lic
 The textures from and made with the original repositories licensed under [GPL 2.0](https://opensource.org/license/gpl-2.0) are licensed under [GPL 2.0](https://opensource.org/license/gpl-2.0) license.<br>
 The textures from and made with the original repositories licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) are licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) license.<br>
 The textures from and made with the original repositories licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license are licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license.<br>
-The textures from and made with the original repositories licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license are licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.
+The textures from and made with the original repositories licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license are licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.<br>
 The textures from and made with the original repositories licensed under ARR are licensed under ARR. And the rights of the textures from those repositories are belonged to their owners.
