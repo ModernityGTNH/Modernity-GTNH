@@ -2202,7 +2202,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 > This Source Code Form is "Incompatible With Secondary Licenses", as defined by the Mozilla Public License, v. 2.0.
 
 ## The textures from and made with the original repositories licensed under ARR
-**All the textures from and made with the original repositories licensed under ARR are licensed under ARR. And the rights of the textures from those repositories are belong to their owner.**
+**All the textures from and made with the original repositories licensed under ARR are licensed under ARR. And the rights of the textures from those repositories are belonged to their owners.**
 
 
 ## The code and other textures

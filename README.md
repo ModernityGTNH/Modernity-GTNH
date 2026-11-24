@@ -129,12 +129,12 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Gregtech-Modern](https://github.com/GregTechCEu/GregTech-Modern) | Some Gregtech textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
 | [Stargate Journey](https://github.com/Povstalec/StargateJourney) | Star Gate textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | [Ender IO: Into the Void](https://www.curseforge.com/minecraft/texture-packs/ender-io-refrubished) (imBL4CK_) | EnderIO textures | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
-| [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x) (Aim__Boot) | bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block | Permission granted |
-| [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) (zozozrob_) | Thaumcraft textures | Permission granted |
-| [Darkpuppey's Modded Overhauls!](https://www.curseforge.com/minecraft/texture-packs/darkpuppeys-modded-overhauls) (Darkpuppey2_) | Draconic Evolution textures | Permission granted |
+| [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x) (Aim__Boot) | bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block | All Rightes Reserved and Permission granted |
+| [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) (zozozrob_) | Thaumcraft textures | All Rightes Reserved and Permission granted |
+| [Darkpuppey's Modded Overhauls!](https://www.curseforge.com/minecraft/texture-packs/darkpuppeys-modded-overhauls) (Darkpuppey2_) | Draconic Evolution textures | All Rightes Reserved and Permission granted |
 | [CosmicCore](https://github.com/Frontiers-PackForge/CosmicCore) (Ghostipedia) | Selected textures | [MIT](https://opensource.org/licenses/MIT) and Permission granted |
-| [GTOCore](https://github.com/GregTech-Odyssey/GTOCore) | Selected textures | Permission granted |
-| [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa) | Vajra / Matter Manipulator | Permission granted |
+| [GTOCore](https://github.com/GregTech-Odyssey/GTOCore) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) and Permission granted |
+| [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa) | Vajra / Matter Manipulator | [GPL 3.0](https://opensource.org/license/gpl-3.0) and Permission granted |
 | [Connected-GT](https://modrinth.com/resourcepack/connected-gt) | Battery & ULV Casing CTM | [MIT](https://opensource.org/licenses/MIT) |
 | [Re: Avaritia](https://github.com/Nova-Committee/Re-Avaritia) / [Avaritia-Integration](https://github.com/Nova-Committee/Avaritia-Integration) | Avaritia textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/twilight-forest-jappa-pack) | Twillight Forest textures | All Rights Reserved $^{1}$ |
@@ -148,7 +148,7 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Create](https://github.com/Creators-of-Create/Create)  | Selected Textures | All Rights Reserved $^{2}$ |
 | [unused-textures](https://github.com/malcolmriley/unused-textures) (malcolmriley) | Selected textures | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 
 | [Twillight Forest](https://github.com/TeamTwilight/twilightforest) | Berries textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
-| [Jtweaks](https://github.com/june-dev-username/JTweaks) (June) | Selected textures | Permission granted |
+| [Jtweaks](https://github.com/june-dev-username/JTweaks) (June) | Selected textures | All Rightes Reserved and Permission granted |
 | [AE2 Lightning Tech Reborn](https://github.com/AE2-Lightning-Tech-Reborn/AE2-Lightning-Tech-Reborn) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
 | [Super Factory Manager](https://github.com/TeamDman/SuperFactoryManager) | Selected textures | [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) |
 | [Extra Utilities Reutilized](https://github.com/WavexDK/extrautilities-reutilized) | Angel block | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
@@ -172,4 +172,4 @@ The textures from and made with the original repositories licensed under [GPL 2.
 The textures from and made with the original repositories licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) are licensed under [GPL 3.0](https://opensource.org/license/gpl-3.0) license.<br>
 The textures from and made with the original repositories licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license are licensed under [LGPL 3.0](https://opensource.org/license/lgpl-3-0) license.<br>
 The textures from and made with the original repositories licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license are licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license.
-The textures from and made with the original repositories licensed under ARR are licensed under ARR. And the rights of the textures from those repositories are belong to their owner.
+The textures from and made with the original repositories licensed under ARR are licensed under ARR. And the rights of the textures from those repositories are belonged to their owners.
