@@ -36,6 +36,17 @@
     
     "enableAutomagyJsonModels": {
       "redstone_inversion_torch": true
+    },
+
+    "enableForestryJsonModels": {
+      "bottler": true,
+      "carpenter": true,
+      "centrifuge": true,
+      "fermenter": true,
+      "moistener": true,
+      "squeezer": true,
+      "still": true,
+      "escritoire": true
     }
   },
   "textures_patcher": {
