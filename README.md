@@ -129,9 +129,9 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Gregtech-Modern](https://github.com/GregTechCEu/GregTech-Modern) | Some Gregtech textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
 | [Stargate Journey](https://github.com/Povstalec/StargateJourney) | Star Gate textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | [Ender IO: Into the Void](https://www.curseforge.com/minecraft/texture-packs/ender-io-refrubished) (imBL4CK_) | EnderIO textures | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
-| [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x) (Aim__Boot) | bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block | All Rightes Reserved and Permission granted |
-| [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) (zozozrob_) | Thaumcraft textures | All Rightes Reserved and Permission granted |
-| [Darkpuppey's Modded Overhauls!](https://www.curseforge.com/minecraft/texture-packs/darkpuppeys-modded-overhauls) (Darkpuppey2_) | Draconic Evolution textures | All Rightes Reserved and Permission granted |
+| [Ashen](https://www.curseforge.com/minecraft/texture-packs/ashen-16x) (Aim__Boot) | bone block, mossy brick, cobblestone, mossy cobblestone, diamond block, gold block, gravel, raw iron block, lapis block | All Rights Reserved and Permission granted |
+| [Thaum-Pack](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) (zozozrob_) | Thaumcraft textures | All Rights Reserved and Permission granted |
+| [Darkpuppey's Modded Overhauls!](https://www.curseforge.com/minecraft/texture-packs/darkpuppeys-modded-overhauls) (Darkpuppey2_) | Draconic Evolution textures | All Rights Reserved and Permission granted |
 | [CosmicCore](https://github.com/Frontiers-PackForge/CosmicCore) (Ghostipedia) | Selected textures | [MIT](https://opensource.org/licenses/MIT) and Permission granted |
 | [GTOCore](https://github.com/GregTech-Odyssey/GTOCore) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) and Permission granted |
 | [Futura Tools](https://github.com/S4mpsa/FuturaTools) (Sampsa) | Vajra / Matter Manipulator | [GPL 3.0](https://opensource.org/license/gpl-3.0) and Permission granted |
@@ -148,7 +148,7 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Create](https://github.com/Creators-of-Create/Create)  | Selected Textures | All Rights Reserved $^{2}$ |
 | [unused-textures](https://github.com/malcolmriley/unused-textures) (malcolmriley) | Selected textures | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 
 | [Twillight Forest](https://github.com/TeamTwilight/twilightforest) | Berries textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
-| [Jtweaks](https://github.com/june-dev-username/JTweaks) (June) | Selected textures | All Rightes Reserved and Permission granted |
+| [Jtweaks](https://github.com/june-dev-username/JTweaks) (June) | Selected textures | Custom License and Permission granted |
 | [AE2 Lightning Tech Reborn](https://github.com/AE2-Lightning-Tech-Reborn/AE2-Lightning-Tech-Reborn) | Selected textures | [LGPL 3.0](https://opensource.org/license/lgpl-3-0) |
 | [Super Factory Manager](https://github.com/TeamDman/SuperFactoryManager) | Selected textures | [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) |
 | [Extra Utilities Reutilized](https://github.com/WavexDK/extrautilities-reutilized) | Angel block | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
@@ -157,12 +157,15 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [OpenComputers II](https://github.com/fnuecke/oc2/) | redstone interface card, circuit board, transistor, hard drive, network interface card， memory, floppy disk  | [MIT](https://opensource.org/licenses/MIT) and [BSD-2-Clause](https://opensource.org/license/bsd-2-clause) |
 | [Tech Reborn](https://github.com/TechReborn/TechReborn) | Selected textures | [MIT](https://opensource.org/licenses/MIT) |
 | [Chisel Reborn](https://github.com/matthewperiut/Chisel-Reborn) | Selected textures | [GPL 2.0](https://opensource.org/license/gpl-2.0) |
+| [Sign Clipboard](https://github.com/Quarris/SignClipboard) | Clipboard | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
+| [Kaleidoscope Cookery](https://github.com/KaleidoscopeMods/KaleidoscopeCookery) | tomato crop, chili crop, lettuce crop, lettuce item | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Stellaris](https://github.com/st0x0ef/stellaris) | Selected textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
 1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed under All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
 
 2 The [Create](https://github.com/Creators-of-Create/Create) is licensed under [MIT](https://opensource.org/licenses/MIT) for codes and under All Rights Reserved for art assets now but it was changed since Sep 22, 2025. Before license changing, it was licensed under [MIT](https://opensource.org/licenses/MIT) for the whole ‌repository‌. So we're still using some textures from [Create](https://github.com/Creators-of-Create/Create) which was uploaded before the license changing. Since [Create](https://github.com/Creators-of-Create/Create) has already changed the license for art assets, we're not using more textures from it afterwards and will try to replace them as possible as we could. If there're any copyright problems, please contact us.<br>
 
-\* Due to earlier oversight of the license, there're still many textures were taken from All Rights Reserved repositories, which definitely need to be replaced in the future. If there're any copyright problems, please contact us. Sorry for the unauthorized using.
+\* Due to earlier oversight of the license, there're still many textures were taken from All Rights Reserved repositories without permissions, which definitely need to be replaced in the future. If there're any copyright problems, please contact us. Sorry for the unauthorized using.
 
 ---
 
