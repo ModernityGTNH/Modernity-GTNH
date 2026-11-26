@@ -47,6 +47,14 @@
       "squeezer": true,
       "still": true,
       "escritoire": true
+    },
+    
+    "enableGCJsonModels": {
+      "rocket_tier_1": true,
+      "rocket_tier_2": true,
+      "rocket_tier_3": true,
+      "rocket_tier_4": true,
+      "nasa_workbench": true
     }
   },
   "textures_patcher": {
