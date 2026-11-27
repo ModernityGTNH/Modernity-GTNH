@@ -159,6 +159,8 @@ Thanks to the following developers for their contributions to Modernity-GTNH:
 | [Chisel Reborn](https://github.com/matthewperiut/Chisel-Reborn) | Selected textures | [GPL 2.0](https://opensource.org/license/gpl-2.0) |
 | [Sign Clipboard](https://github.com/Quarris/SignClipboard) | Clipboard | [GPL 3.0](https://opensource.org/license/gpl-3.0) |
 | [Kaleidoscope Cookery](https://github.com/KaleidoscopeMods/KaleidoscopeCookery) | tomato crop, chili crop, lettuce crop, lettuce item | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Kaleidoscope Tavern](https://github.com/KaleidoscopeMods/KaleidoscopeTavern) | Vinegar, Wine, Vodka, Whiskey, Rum | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| [Kaleidoscope Fruit Brew](https://github.com/zhaijineet/KaleidoscopeFruitBrew) | Apple Cider, Lemon Wine | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | [Stellaris](https://github.com/st0x0ef/stellaris) | Selected textures | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
 1 The [Twillight Forest](https://github.com/TeamTwilight/twilightforest) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) but the [Twilight Forest: JAPPA Pack (official addon)](https://www.curseforge.com/minecraft/texture-packs/) is seemed like to be licensed under All Rights Reserved. As it was used in the original mod, and still the official addon resourcepack, we are still using the textures from the pack. If there're any copyright problems, please contact us. <br>
